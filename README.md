@@ -148,9 +148,15 @@ I'm actively seeking **Machine Learning Engineer** and **Data Science roles**, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnushkaKatiyar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaKatiyar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaKatiyar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaKatiyar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
