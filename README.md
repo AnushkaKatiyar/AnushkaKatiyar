@@ -144,24 +144,6 @@ I'm actively seeking **Machine Learning Engineer** and **Data Science roles**, a
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaKatiyar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnushkaKatiyar&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 ## Experience Highlights
 
 ```
